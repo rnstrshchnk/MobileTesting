@@ -6,3 +6,6 @@ https://docs.google.com/spreadsheets/d/1Cw0yVVfySZyyg0AwCKaxc77WIjFD0VdTtxYgYZwz
 
 Чек лист Android App
 https://docs.google.com/spreadsheets/d/1RjLJ3PYDdcpC-viw6It0-1SoTi9QPl0sn-jawNHosZc/edit?usp=sharing
+
+Чек листы и баг репорты по проверке мобильного приложения ToDoList
+https://docs.google.com/spreadsheets/d/1q-Tp5DBv8XiShEdWo9UHdGvMmvyNC5mZQivZI84F9Z8/edit?usp=sharing
